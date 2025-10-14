@@ -13,7 +13,7 @@ Un jeu de course de dragons en réalité virtuelle avec intelligence artificiell
 
 ### 🎥 Démonstration (24 secondes)
 
-[![Vidéo de démonstration](https://img.shields.io/badge/🎥-Voir%20la%20démonstration%20(24s)-red)](https://github.com/VOTRE_USERNAME/dragons-race-vr/blob/main/media/VideoDragon.mp4)
+[![Vidéo de démonstration](https://img.shields.io/badge/🎥-Voir%20la%20démonstration%20(24s)-red)](https://github.com/hbengaied/dragons-race-vr/blob/main/media/VideoDragon.mp4)
 
 *Durée : 24 secondes - Montre le gameplay complet avec VR et IA*
 
