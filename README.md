@@ -13,8 +13,7 @@ Un jeu de course de dragons en réalité virtuelle avec intelligence artificiell
 
 ### 🎥 Démonstration (24 secondes)
 
-[![Vidéo de démonstration](https://img.shields.io/badge/🎥-Voir%20la%20démonstration%20(24s)-red)](https://github.com/hbengaied/dragons-race-vr/blob/main/media/VideoDragon.mp4)
-https://github.com/user-attachments/assets/8bd49211-f5c2-4ec0-b4e3-a487ad564925
+[![Vidéo de démonstration](https://img.shields.io/badge/🎥-Voir%20la%20démonstration%20(24s)-red)](https://github.com/user-attachments/assets/8bd49211-f5c2-4ec0-b4e3-a487ad564925)
 
 *Durée : 24 secondes - Montre le gameplay complet avec VR et IA*
 
@@ -382,13 +381,6 @@ Les contributions sont les bienvenues ! Voici comment contribuer :
 ## 👨‍💻 Auteur
 
 **Hicheme BEN GAIED**
-
-## 🙏 Remerciements
-
-- **Unity Technologies** pour le moteur de jeu
-- **Motion Systems** pour ForceSeat
-- **Communauté VR** pour les retours et suggestions
-
 ---
 
 ⭐ **N'hésitez pas à donner une étoile si ce projet vous a aidé !**
