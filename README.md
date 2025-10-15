@@ -87,7 +87,7 @@ Scripts/
 
 1. **Cloner le repository**
    ```bash
-   git clone https://github.com/VOTRE_USERNAME/dragons-race-vr.git
+   git clone https://github.com/hbengaied/dragons-race-vr.git
    cd dragons-race-vr
    ```
 
