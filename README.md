@@ -19,7 +19,6 @@ Un jeu de course de dragons en réalité virtuelle avec intelligence artificiell
 
 ## ✨ Fonctionnalités
 
-- 🏁 **Course multijoueur** (jusqu'à 8 joueurs)
 - 🤖 **Intelligence artificielle** avec Unity ML-Agents
 - 🎯 **Système de combat** avec projectiles
 - 🏆 **Bonus et obstacles** dynamiques
